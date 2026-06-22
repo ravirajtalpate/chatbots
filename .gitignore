@@ -26,16 +26,9 @@ env/
 ENV/
 .venv
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb
+
+
 
 # Environment variables
 .env
